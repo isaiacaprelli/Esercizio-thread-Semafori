@@ -46,6 +46,18 @@ namespace Verifica_recupero_debito
                 Console.WriteLine("fine thread 2");
             }
 
+            static void Stampa()
+            {
+                string anno = "siamo nell'anno 202";
+                Console.WriteLine("inizio thread 3");
+                for (int i = 0; i < 10; i++)
+                {
+                    Thread.Sleep(100);
+                    Console.WriteLine(anno + i);
+                }
+                Console.WriteLine("fine thread 3");
+            }
+
 
 
         }

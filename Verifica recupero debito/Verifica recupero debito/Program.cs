@@ -39,7 +39,7 @@ namespace Verifica_recupero_debito
                 Console.WriteLine("inizio thread 2");
                 for(int i=0; i < 10; i++)
                 {
-                    Thread.Sleep(10);
+                    Thread.Sleep(10);               //ho aggiunto il thread sleep per fare un po più di ordine nella console
                     tabellina = 70 * i;
                     Console.WriteLine($"tabellina del 70 x{i} = " + tabellina);
                 }

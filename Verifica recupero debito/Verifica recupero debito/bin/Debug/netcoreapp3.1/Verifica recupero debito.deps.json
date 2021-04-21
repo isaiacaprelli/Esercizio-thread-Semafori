@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Verifica recupero debito/1.0.0": {
+        "runtime": {
+          "Verifica recupero debito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verifica recupero debito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

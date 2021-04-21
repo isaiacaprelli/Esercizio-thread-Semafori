@@ -1,0 +1,13 @@
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\obj\Debug\netcoreapp3.1\Verifica recupero debito.csprojAssemblyReference.cache
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\obj\Debug\netcoreapp3.1\Verifica recupero debito.AssemblyInfoInputs.cache
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\obj\Debug\netcoreapp3.1\Verifica recupero debito.AssemblyInfo.cs
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\obj\Debug\netcoreapp3.1\Verifica recupero debito.csproj.CoreCompileInputs.cache
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\bin\Debug\netcoreapp3.1\Verifica recupero debito.exe
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\bin\Debug\netcoreapp3.1\Verifica recupero debito.deps.json
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\bin\Debug\netcoreapp3.1\Verifica recupero debito.runtimeconfig.json
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\bin\Debug\netcoreapp3.1\Verifica recupero debito.runtimeconfig.dev.json
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\bin\Debug\netcoreapp3.1\Verifica recupero debito.dll
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\bin\Debug\netcoreapp3.1\Verifica recupero debito.pdb
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\obj\Debug\netcoreapp3.1\Verifica recupero debito.dll
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\obj\Debug\netcoreapp3.1\Verifica recupero debito.pdb
+Z:\Verifica di recupero tps\Verifica recupero debito\Verifica recupero debito\obj\Debug\netcoreapp3.1\Verifica recupero debito.genruntimeconfig.cache

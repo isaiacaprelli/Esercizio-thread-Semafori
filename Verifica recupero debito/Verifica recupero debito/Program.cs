@@ -33,6 +33,21 @@ namespace Verifica_recupero_debito
                 Console.WriteLine("fine thread 1");
             }
 
+            static void Ciclo()
+            {
+                int tabellina;
+                Console.WriteLine("inizio thread 2");
+                for(int i=0; i < 10; i++)
+                {
+                    Thread.Sleep(10);
+                    tabellina = 70 * i;
+                    Console.WriteLine($"tabellina del 70 x{i} = " + tabellina);
+                }
+                Console.WriteLine("fine thread 2");
+            }
+
+
+
         }
     }
 }
